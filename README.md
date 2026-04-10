@@ -1,7 +1,4 @@
 # Task Manager App
-
-This is a simple Task Manager project I built using the MERN stack (MongoDB, Express, React, Node.js). It has a separate frontend and backend folder.
-
 ## Features Added
 - Add new tasks (with time and validation)
 - View list of tasks
@@ -59,17 +56,3 @@ This is a simple Task Manager project I built using the MERN stack (MongoDB, Exp
    ```bash
    npm run dev
    ```
-
-## Deployment
-Will be deployed using free tiers like Render (for Backend) and Vercel (for Frontend).
-
-## Submission Checklist
-- [x] Basic CRUD operations working
-- [x] Simple and clean UI
-- [x] Frontend and Backend in separate folders
-- [ ] Add live links here
-- [ ] Submit project to hr@dgtlmart.com
-
-## Contact
-- GitHub: [My Repo URL]
-- Email: hr@dgtlmart.com with subject "Task Manager Project Submission"
