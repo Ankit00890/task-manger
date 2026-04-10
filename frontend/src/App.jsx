@@ -4,8 +4,8 @@ import { ListChecks, LayoutGrid, CheckCircle2, Clock } from 'lucide-react';
 import TaskInput from './components/TaskInput';
 import TaskList from './components/TaskList';
 
-// Use environment variable for production API URL, fallback to local for development
-const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:5000/api/tasks';
+// Hardcoded backend URL for production so Vercel can connect automatically
+const API_URL = 'https://task-manger-3wy9.onrender.com/api/tasks';
 
 function App() {
   const [tasks, setTasks] = useState([]);
