@@ -22,7 +22,7 @@
 - **MongoDB & Mongoose**: Used for connecting to the database and saving tasks
 - **CORS**: To connect frontend with backend
 - **Dotenv**: To manage environment variables safely
-
+- live backend: "https://task-manger-3wy9.onrender.com/"
 ## How to Run Locally
 
 ### Prerequisites
