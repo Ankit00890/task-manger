@@ -16,6 +16,7 @@
 - **Tailwind CSS**: For basic styling
 - **Lucide React**: For icons
 - **Axios**: To fetch data from backend API
+- live: "https://task-manger-jet.vercel.app/"
 
 ### Backend
 - **Node.js & Express.js**: For creating the server and APIs
